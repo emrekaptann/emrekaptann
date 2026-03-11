@@ -20,8 +20,8 @@ I am a passionate developer who loves creating in the worlds of software, game d
 ---
 
 <h3 align="center">
-  💻 Tools & Technologies 
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
+  &emsp;💻 Tools & Technologies 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   🌐 Connect With Me
 </h3>
 
