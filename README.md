@@ -12,8 +12,9 @@ Yazılım, oyun geliştirme ve elektronik dünyasında üretmeyi seven tutkulu b
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrekaptann&theme=radical&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekaptann&theme=radical&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrekaptann&theme=radical&show_icons=true&hide_border=true" height="165" />
+  <img width="10" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekaptann&theme=radical&layout=compact&hide_border=true" height="165" />
 </div>
 
 ---
