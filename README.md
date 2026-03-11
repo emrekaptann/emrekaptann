@@ -19,7 +19,11 @@ I am a passionate developer who loves creating in the worlds of software, game d
 
 ---
 
-### 💻 Tools, Technologies & 🌐 Connect With Me
+<h3 align="center">
+  💻 Tools & Technologies 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
+  🌐 Connect With Me
+</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
