@@ -12,8 +12,8 @@ I am a passionate developer who loves creating in the worlds of software, game d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=emrekaptann&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=emrekaptann&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrekaptann&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrekaptann&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
