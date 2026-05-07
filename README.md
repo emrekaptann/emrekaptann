@@ -11,11 +11,14 @@ I am a passionate developer who loves creating in the worlds of software, game d
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrekaptann&theme=radical&show_icons=true&hide_border=true" height="165" />
-  <img width="10" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekaptann&theme=radical&layout=compact&hide_border=true" height="165" />
-</div>
+<p align="center">
+  <a href="https://github.com/emrekaptann">
+    <img src="https://github-readme-stats.vercel.app/api?username=emrekaptann&show_icons=true&theme=radical&hide_border=true" alt="Emre's GitHub stats" height="165" />
+  </a>
+  <a href="https://github.com/emrekaptann">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekaptann&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="165" />
+  </a>
+</p>
 
 ---
 
