@@ -1,52 +1,84 @@
+<div align="center">
+
 # Hi, I'm Emre 👋
 
-I am a passionate developer who loves creating in the worlds of software, game development, and electronics. I'm currently working on creative mobile apps and immersive games. I also have a strong interest in artificial intelligence and avionic systems.
+### Software Developer · Game Developer · Avionics & AI Enthusiast
 
-### 🚀 What I Do
-- 📱 **Mobile Apps:** Developing *Yeni Oyun Gazetesi*, *Kıyava*, and various data-driven clone applications.
-- 🎮 **Game Development:** Designing games like *StarLinker: AI Wars* and *Rewind Survivor*.
-- ⚙️ **Engineering & AI:** Researching power electronics, control systems, and aviation (avionics) technologies, while creating AI-powered solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75590&center=true&vCenter=true&width=600&lines=Flutter+%26+Mobile+App+Developer;Game+Developer+%40+GameJams;Avionics+%26+UAV+Systems+Researcher;AI-Powered+Product+Builder" alt="Typing SVG" />
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrekaptann&theme=radical&hide_border=true" height="225" />
-</p>
+I am a passionate developer who loves creating in the worlds of software, game development, and electronics. I'm currently working on creative mobile apps and immersive games, with a strong interest in artificial intelligence and avionic systems.
 
----
+<br/>
 
-<h3 align="center">
-  💻 Tools & Technologies 
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  🌐 Connect With Me
-</h3>
+## 🚀 What I Do
+
+| | |
+|---|---|
+| 📱 **Mobile Apps** | Developing *Yeni Oyun Gazetesi*, *Kıyava*, and various data-driven applications. |
+| 🎮 **Game Development** | Designing games like *StarLinker: AI Wars* and *Rewind Survivor*. |
+| ⚙️ **Engineering & AI** | Researching power electronics, control systems, and aviation (avionics) technologies, while building AI-powered solutions. |
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" title="Unity" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android" />
-  
-  <img width="40" />
-  
-  <a href="https://www.linkedin.com/in/emrekaptann/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img width="12" />
-  <a href="https://x.com/EmrAppSoftware" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <img width="12" />
-  <a href="mailto:emrekaptan.iletisim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=emrekaptann&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrekaptann&theme=radical&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekaptann&layout=compact&theme=radical&hide_border=true" width="49%" />
+</div>
+
+<br/>
+
+## 💻 Tools & Technologies
+
+<div align="center">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Engineering & AI**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrekaptann/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EmrAppSoftware)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrekaptan.iletisim@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=emrekaptann&style=for-the-badge&color=F75590)
+
 </div>
